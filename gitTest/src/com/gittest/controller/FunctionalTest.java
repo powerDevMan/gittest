@@ -15,6 +15,6 @@ public class FunctionalTest {
 	public int getAge() {
 		return 19;
 	}
-	
+	//
 	
 }
