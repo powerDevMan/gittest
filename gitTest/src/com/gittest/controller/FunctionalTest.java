@@ -12,6 +12,8 @@ public class FunctionalTest {
 		
 	}
 	
-	
+	public void conflict() {
+		System.out.println("충돌충돌!");
+	}
 	
 }
